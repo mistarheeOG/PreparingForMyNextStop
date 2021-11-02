@@ -26,6 +26,7 @@ When I can find a place that I can fully align with, and totally buy in to the m
 - [ ] Go through at least 1 FB or LeetCode Challenge
 - [ ] Go through https://www.indeed.com/career-advice/interviewing/tech-lead-interview-questions and get your answers together
 - [ ] Go through 1 chapter of the book that you're focused on for Sysntem Design
+
 **Weekly Plan**
 - [ ] Review process and progress
 - [ ] Scan LinkedIn for new opportunities
