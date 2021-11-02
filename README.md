@@ -24,7 +24,7 @@ When I can find a place that I can fully align with, and totally buy in to the m
 **Daily Plan**
 - [ ] (If Applicable) Send follow up emails/messages
 - [ ] Go through at least 1 FB or LeetCode Challenge
-- [ ] Go through https://www.indeed.com/career-advice/interviewing/tech-lead-interview-questions and get your answers together
+- [ ] Go through https://www.indeed.com/career-advice/interviewing/tech-lead-interview-questions and https://www.linkedin.com/interview-prep/assessments/urn:li:fs_assessment:(1,a)/question/urn:li:fs_assessmentQuestion:(10011,aq11)/ - get your answers together
 - [ ] Go through 1 chapter of the book that you're focused on for Sysntem Design
 
 **Weekly Plan**
