@@ -4,17 +4,41 @@
 
 1 - Tell me about yourself.
 
-I'm a servant leader, and I live, to serve my team at home and at the office.  I'm a first generation American, any my parents immigrated here before I was born to provide a better life for our family.  I have the "immigrant" work ethic, and I don't shy away from hard tasks especially those that would support/help my family/team.  I've worked at a range of jobs, from delis, to retail, to software and now management, but the one thing that ties them all is I love to serve.
-
-I love engineering, as it all comes down to problem solving and understanding the tradeoffs for any solution while understanding there is no "perfect" solution.  I also love working with people and helping them be their healthiest selves so they can grow into whatever role they want to achieve.
+I'm a servant leader, and I work to serve my team by putting them first.  My goal as a manager for my team is to find the path to growth for each team member and understand what it is that makes them feel engaged, listened to, and growing toward their particular goals.  I regularly check in on my team members' health, both physical and mental, while making sure we "know" one another so we can better interact with one another.  I also love engineering, as it all comes down to problem-solving and understanding the tradeoffs for any solution while understanding there is no "perfect" solution.  
 
 While my current has been fulfilling and has allowed me to grow, I would like to find a new opportunity to make an impact and fulfilling a new mission.
 
 2 - What is your greatest strength?
 
-I am a consensus builder that also takes action to gather enough evidence to get to consensus quickly.  
+I am a consensus builder that also takes action to gather enough evidence to get to a consensus quickly.  I continually grow a network of peers within the company that I can lean on when I need help or feedback.  They can be peers within IT or peers on the business side, I am able to move between the two due to my interpersonal skills but also the domain knowledge I've built up over the years.  
 
-3 - 
+Due to these connections, I can determine how best to build consensus on items or projects that my team is involved in.  Understanding who can best answer a question or provide guidance, allows for my team to be able to prioritize work faster and execute cleanly.
+
+3 - What is your greatest weakness?
+
+I love to serve and in some cases, I try to take on more than I should from my team.  When I take on too much, I am unable to properly disengage from the day-to-day to assess the team's progress on strategic initiatives either at the project/product level or at the team level.  
+
+As such, I've become more conscious about making sure I delegate more to my team and in some cases, pair with them to level up their knowledge in a particular area to prepare them to take on more at a later time.  
+
+4 - Why should we hire you?
+
+
+
+5 - Why do you want to work here?
+
+6 - Tell me about a time you showed leadership?
+
+7 - Tell me about a time you were successful on a team.
+
+8 - What would your co-workers say about you?
+
+9 - Why do you want to leave your current role?
+
+10 - Describe your most challenging project.
+
+14 - What do you like to do outside of work?
+
+16 - Where do you see yourself in 5 years?
 
 
 ### [35 Tech Lead Interview Questions (With Sample Answers)](https://www.indeed.com/career-advice/interviewing/tech-lead-interview-questions)
