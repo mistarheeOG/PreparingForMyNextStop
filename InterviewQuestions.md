@@ -1,3 +1,10 @@
+# Your Two Minute Pitch
+
+I am an engineering manager and technical lead at Guggenheim Partners.  
+In college I studies Computer Science and Physics at University at Albany.  
+I've worked for a number of Wall Street firms where I helped build and design critical trading and operations applications.
+In my current job
+
 # Interview Questions
 
 ### [LinkedIn Common Questions](https://www.linkedin.com/interview-prep/assessments/urn:li:fs_assessment:(1,a)/question/urn:li:fs_assessmentQuestion:(10011,aq11)/)
@@ -22,11 +29,17 @@ As such, I've become more conscious about making sure I delegate more to my team
 
 4 - Why should we hire you?
 
+I believe in ownership of and being accountable for the team's work.  As a leader, I find the various ways to communicate our mission and the expected key results within a time period to the team so that they understand what a good/great outcome looks like.  The team needs to feel safe to make mistakes and learn so that they can grow and better understand not only the team's needs but their own as well.  
 
+My teams consistently perform well due to their ability to be flexible and supportive and, as a team, we seek to achieve our goals and move forward.  I can bring these skills and find the path for the team to be effective as a whole while grooming the next set of leaders that can step up and further the growth of the company.  
 
 5 - Why do you want to work here?
 
 6 - Tell me about a time you showed leadership?
+
+As a technical lead, we struggled with the aggregation of data across APIs.  To help solve the problem, I spearheaded the introduction of the Hot Chocolate GraphQL library to our .Net stack and iteratively created a new GraphQL API that allowed for the querying of and aggregation of data across multiple APIs and even databases.  I also acted as an advocate for GraphQL internally by teaching other teams about the possible use cases as well as the ease of setup while discussing possible drawbacks and issues.  
+
+As a manager, I regularly coordinate strategies between my team and others, and build consensus around solutions.  Recently I was made aware that the communication I had sent out about strategy was either not understood or well-received.  I owned the problem and reached out to those who needed clarification and discussed the why and how, then reached out to those who did not buy it to better understand their viewpoints and adjust my strategy accordingly.  
 
 7 - Tell me about a time you were successful on a team.
 
@@ -34,12 +47,21 @@ As such, I've become more conscious about making sure I delegate more to my team
 
 9 - Why do you want to leave your current role?
 
+Looking back, I was always happiest when in a small team and company.  Guggenheim Partners has been a great place for me to grow and learn but I would like to move to a more intimate company where we can move quickly, affect change and deliver a great experience not only for our customers but for ourselves as a team.
+
 10 - Describe your most challenging project.
+
+The current project I am leading has been a challenge from day one.  I was handed a product to evangelize on that I had no background with, had to build a team around it, create an SDLC around the product and then find customers within the firm to adopt the product.  We have been subjected to 2 pivots in strategy within a year, but my team has been flexible and able to move forward.  
+
+I have learned the ins and outs of the product and identified a technical lead that could help make sure we establish good practices for the team, I also developed a CI/CD pipeline for the product from scratch by piecing together knowledge from the available APIs and leveraging some open source tools.  Finally, we've managed to launch and find a lane to operate in while dealing with conflicting signals from leadership on direction and scope.  We've managed to onboard a handful of customers and are hoping to accelerate growth as we're able to expand the product offering.  
 
 14 - What do you like to do outside of work?
 
+Pre-pandemic, I was an avid practitioner of Brazilian Jiu Jitsu and Sailing. although with the birth of my daughter both of those activities were severely curtailed - I'm not complaining.  Until I feel it is safe to participate in those activities again, I am making due with understanding how to maintain and improve aspects of the home we purchased in CT. 
+
 16 - Where do you see yourself in 5 years?
 
+My goal is to be a Head of Engineering or even a Founder of a technology startup.  There are so many problems in the world that technology can assist with and improve the lives of people in general.  As I move forward, regardless of the company, the mission will need to be one I can believe in and be inspired by.  
 
 ### [35 Tech Lead Interview Questions (With Sample Answers)](https://www.indeed.com/career-advice/interviewing/tech-lead-interview-questions)
 
