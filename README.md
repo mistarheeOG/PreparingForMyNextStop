@@ -1,7 +1,7 @@
 # Preparing For My Next Stop
 I'm currently an Engineering Manager and Technical Lead at a mid-size Asset Management firm in New York.  I THOUGHT I was a pretty good engineer and knew a ton of stuff but then realized how large a gap I have in terms of knowledge relative to engineers outside of Wall St.  I'm at a place in my career where I can keep ddoing what I'm doing but not be fulfilled or level myself up to take on a new challenge.  I've decided on the later and I'm using this repo as a way to track what I'm planing to do, the resources I've used and my experience going through it. 
 
-### Today (2021-11-01)
+### Started 2021-11-01
 [How to Job Hunt (When You’re Already Exhausted)](http://hbr.org/2021/10/how-to-job-hunt-when-youre-already-exhausted?utm_source=pocket_mylist)
 This article summed up where I was pretty nicely, below are my own personal findings/write-up/self-examination.
 
@@ -25,7 +25,7 @@ When I can find a place that I can fully align with, and totally buy in to the m
 - [ ] (If Applicable) Send follow up emails/messages
 - [ ] Go through at least 1 FB or LeetCode Challenge
 - [ ] Go through https://www.indeed.com/career-advice/interviewing/tech-lead-interview-questions and https://www.linkedin.com/interview-prep/assessments/urn:li:fs_assessment:(1,a)/question/urn:li:fs_assessmentQuestion:(10011,aq11)/ - get your answers together
-- [ ] Go through 1 chapter of the book that you're focused on for Sysntem Design
+- [ ] Go through 1 chapter of the book that you're focused on for System Design
 
 **Weekly Plan**
 - [ ] Review process and progress
